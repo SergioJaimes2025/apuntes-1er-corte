@@ -12,13 +12,27 @@ Sergio Iván Jaimes Garzón Código: 133238
 # tenemos el caso 1 raíces reales diferentes
 
 $$F(s)=\frac{A(s)}{B(s)}=\frac{a_{1}}{s+p_{1}}+\frac{a_{1}}{s+p_{2}}+...+\frac{a_{n}}{s+p_{n}}}$$
-teniendo en cuenta que $$$$ k=(1,2,3....) son constantes, $$a_{k}$$ puede hallarse multiplicando ambos lados de la igualdad por (s+p sub K) y haciendo s=-p sub K 
+teniendo en cuenta que 
+$$$$ k=(1,2,3....) son constantes,
+$$a_{k}$$ 
+puede hallarse multiplicando ambos lados de la igualdad por (s+p sub K) y haciendo s=-p sub K 
 
 $$a_{k}=\[ (s+p_{k}) \frac{A\left(s)\right)}{B(s)}]_{s=-pk}$$
 se cancelan todos menos la a sub k 
-ejemplo: obtenga la transformada inversa de $$F (s)= \frac{s+3}{(s+1)(s+2)"$$
+ejemplo: obtenga la transformada inversa de 
+$$F (s)= \frac{s+3}{(s+1)(s+2)"$$
 
-$$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$ $$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$
+$$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$
+$$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$
 # tenemos el caso 2 raíces reales iguales
 $$F(s)=\frac{s^{2}+2s+3}{(s+1)^{3}}$$
 $$F(s)=\frac{A(s)}{B(s)}=\frac{b_{3}}{(s+1)^{3}}+\frac{b_{2}}{(s+1)^{2}}+\frac{b_{1}}{s+1}$$
+
+
+CONCLUICONES 
+Por medio de los temas vistos evidenciamos la forma correcta de aplicar la formulación para cada caso dependiendo del ejercisio que nos plantean. 
+
+REFERENCIAS
+
+https://www.youhttps://aulas.ecci.edu.co/mod/resource/view.php?id=217833
+tube.com/watch?v=WAYBZTQoVkI
