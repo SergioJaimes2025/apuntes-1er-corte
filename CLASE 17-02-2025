@@ -1,0 +1,23 @@
+# Clase del 17 de febrero de 2025: Sistemas Dinámicos - solución de ecucaciones diferenciales
+En esta clase tratamos de cual es el procedimiento para la solución de las ecuaciones por medio de 2 casos puntuales. 
+
+*Nombre de los integrantes: 
+Jessica Daniela Bernal Gómez Código: 120093
+Sergio Iván Jaimes Garzón Código: 133238
+
+# >🔑Tema de la clase: Solución de ecuaciones diferenciales
+
+🔑Definición: Las ecuaciones diferenciales son herramientas matemáticas que describen cómo cambian las cantidades con el tiempo o el espacio, y son esenciales para entender y modelar fenómenos.
+
+# tenemos el caso 1 raíces reales diferentes
+
+$$F(s)=\frac{A(s)}{B(s)}=\frac{a_{1}}{s+p_{1}}+\frac{a_{1}}{s+p_{2}}+...+\frac{a_{n}}{s+p_{n}}}$$
+teniendo en cuenta que $$$$ k=(1,2,3....) son constantes, $$a_{k}$$ puede hallarse multiplicando ambos lados de la igualdad por (s+p sub K) y haciendo s=-p sub K 
+
+$$a_{k}=\[ (s+p_{k}) \frac{A\left(s)\right)}{B(s)}]_{s=-pk}$$
+se cancelan todos menos la a sub k 
+ejemplo: obtenga la transformada inversa de $$F (s)= \frac{s+3}{(s+1)(s+2)"$$
+
+$$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$ $$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$
+# tenemos el caso 2 raíces reales iguales
+$$
