@@ -20,4 +20,5 @@ ejemplo: obtenga la transformada inversa de $$F (s)= \frac{s+3}{(s+1)(s+2)"$$
 
 $$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$ $$a_{k=[(s+p_{k})\frac{A(s)}{B(s)}]_{s=-p_{k}}$$
 # tenemos el caso 2 raíces reales iguales
-$$
+$$F(s)=\frac{s^{2}+2s+3}{(s+1)^{3}}$$
+$$F(s)=\frac{A(s)}{B(s)}=\frac{b_{3}}{(s+1)^{3}}+\frac{b_{2}}{(s+1)^{2}}+\frac{b_{1}}{s+1}$$
